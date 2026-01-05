@@ -35,13 +35,13 @@ To manage shared application state (shopping cart) across multiple components us
 src/
 │
 ├── components/
-│ ├── NavBar.js
-│ ├── ProductList.js
-│ └── CartSummary.js
-| └── Product.js
+│   ├── NavBar.js
+│   ├── ProductList.js
+│   ├── CartSummary.js
+│   └── Product.js
 │
 ├── context/
-│ └── CartContext.js
+│   └── CartContext.js
 │
 ├── App.js
 └── index.js
