@@ -31,23 +31,6 @@ To manage shared application state (shopping cart) across multiple components us
 
 ---
 
-##  Folder Structure
-src/
-│
-├── components/
-│   ├── NavBar.js
-│   ├── ProductList.js
-│   ├── CartSummary.js
-│   └── Product.js
-│
-├── context/
-│   └── CartContext.js
-│
-├── App.js
-└── index.js
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
