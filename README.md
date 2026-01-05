@@ -36,8 +36,18 @@ To manage shared application state (shopping cart) across multiple components us
 1. Clone the repository:
 
 git clone https://github.com/DHURSHITHA/stateManagement.git
+
+2. 
 cd statemanagement
+
+3. 
 npm install
+
+4.
 npm install @mui/material @emotion/react @emotion/styled
+
+5.
 npm install @mui/icons-material
+
+6.
 npm start
